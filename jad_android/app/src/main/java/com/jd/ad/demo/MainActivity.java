@@ -1,4 +1,4 @@
-package com.jd.ad;
+package com.jd.ad.demo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
